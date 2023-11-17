@@ -21,5 +21,7 @@ namespace Garage3._0.Domain
 
         public int VehicleTypeID { get; set; }
 
+        //Ta bort det här testet
+
     }
 }
